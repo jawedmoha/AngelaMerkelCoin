@@ -1,0 +1,9 @@
+Building AngelaMerkelCoin
+
+See doc/readme-qt.rst for instructions on building AngelaMerkelCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AngelaMerkelCoin.
+
+See doc/build-*.txt for instructions on building AngelaMerkelCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AngelaMerkelCoin.
